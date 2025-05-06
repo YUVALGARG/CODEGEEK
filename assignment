@@ -1,0 +1,19 @@
+#Task 1: Perform Basic Mathematical Operations
+
+
+a = int(input("ENTER FIRST NUMBER :"))
+b = int(input("ENTER SECOND NUMBER :"))
+
+print("ADDITION :", a+b)
+print("MULTIPLICATION :", a*b)
+print("SUBTRACTION :", a-b)
+print("DIVISION :", a/b)
+
+
+
+# Task 2: Create a Personalized Greeting
+
+first_name = str(input("ENTER YOUR FIRST NAME :"))
+last_name = str(input("ENTER YOUR LAST NAME :"))
+full_name = first_name +""+ last_name
+print("Hello, " +full_name+ "! welcome to the python programme." )
