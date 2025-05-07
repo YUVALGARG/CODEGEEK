@@ -13,7 +13,7 @@ print("DIVISION :", a/b)
 
 # Task 2: Create a Personalized Greeting
 
-first_name = str(input("ENTER YOUR FIRST NAME :"))
-last_name = str(input("ENTER YOUR LAST NAME :"))
-full_name = first_name +""+ last_name
-print("Hello, " +full_name+ "! welcome to the python programme." )
+a = str(input("ENTER YOUR FIRST NAME :"))
+b = str(input("ENTER YOUR LAST NAME :"))
+c = a +""+ b
+print("Hello, " +c+ "! welcome to the python programme." )
